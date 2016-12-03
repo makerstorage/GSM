@@ -4,9 +4,9 @@
 
 **GSM Gate Opener**
 
-For more details, check out the product pages at
+For more details, check out the blog pages at
 
-http://makerstorage.com/index.php
+http://blog.makerstorage.com
 
 
 MakerStorage invests time and resources providing this open source design, please support MakerStorage and open-source hardware by purchasing products from MakerStorage!
